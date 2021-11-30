@@ -1,16 +1,25 @@
 ### Hi there 👋
+I'm Gabriel, a Informatics Engineering student.
 
+- 🌱 Currently learning Data Structure & Algorithm
 <!--
 **GabrielMoody/GabrielMoody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 💼 Skills
+
+![](https://img.shields.io/badge/Code-Cpp-informational?style=flat&logo=cplusplus&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)

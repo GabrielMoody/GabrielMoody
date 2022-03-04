@@ -1,7 +1,6 @@
 ### Hi there 👋
 I'm Gabriel, a Informatics Engineering student.
 
-- 🌱 Currently learning Data Structure & Algorithm
 <!--
 **GabrielMoody/GabrielMoody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

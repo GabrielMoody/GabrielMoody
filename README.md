@@ -1,5 +1,4 @@
 ### Hi there 👋
-I'm Gabriel, a Informatics Engineering student.
 
 <!--
 **GabrielMoody/GabrielMoody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Halo, I'm Gabriel Waworundeng 
 👯 I’m looking to collaborate on backend <br>🌱 I’m currently learning Go and Microservices <br> 📫 How to contact me gabrielmdy08@gmail.com
 
 ## 🌐 Socials:
@@ -16,4 +16,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=GabrielMoody&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GabrielMoody&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitor-badge.laobi.icu/badge?page_id=GabrielMoody.GabrielMoody&)

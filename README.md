@@ -1,39 +1,19 @@
-<h1 align="center">Hey there 👋</h1>
+# 💫 About Me:
+👯 I’m looking to collaborate on backend <br>🌱 I’m currently learning Go and Microservices <br> 📫 How to contact me gabrielmdy08@gmail.com
 
-###
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/GabrielWaworundeng)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/gabrielwaworundeng"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-</div>
+# 💻 Tech Stack:
+![My Skills](https://skillicons.dev/icons?i=go,nodejs,docker,mysql,mongodb,gcp)
 
-###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GabrielMoody&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=GabrielMoody&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoody&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GabrielMoody.GabrielMoody&"  />
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=GabrielMoody&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Gabriel an Informatics Engineering student at Universitas Sam Ratulangi.
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-</div>
-
-###
+---
+[![](https://visitcount.itsvg.in/api?id=GabrielMoody&icon=0&color=0)](https://visitcount.itsvg.in)

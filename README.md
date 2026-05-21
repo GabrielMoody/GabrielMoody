@@ -7,13 +7,13 @@
 # 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=go,java,spring,nodejs,express,docker,mysql,mongodb,gcp)
 
-# 📊 GitHub Stats:
+<!--# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GabrielMoody&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=GabrielMoody&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMoody&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GabrielMoody&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+-->
 ---
 ![](https://visitor-badge.laobi.icu/badge?page_id=GabrielMoody.GabrielMoody&)

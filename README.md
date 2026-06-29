@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/GabrielWaworundeng)
 
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=go,java,spring,nodejs,express,docker,mysql,mongodb,gcp)
+![My Skills](https://skillicons.dev/icons?i=go,java,spring,nodejs,express,docker,postgresql,mysql,mongodb,gcp,aws)
 
 <!--# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GabrielMoody&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
